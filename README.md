@@ -74,7 +74,10 @@ Problema: Só é possível realizar consultas genéricas usando select
 
 No programa python os dados são obtidos a partir dos status da sessão após o usuário optar por finalizar as consultas/atualizações: 
 
+
+~~~
 SHOW STATUS LIKE 'Com_select';
+~~~
 ## Considerações finais
 Uma estratégia mais adequada dependerá do objetivo pretendido com a auditoria. 
 O programa em python pode ser complementado para de adequar as necessidades de um projeto específico. Enquanto  triggers/procedures possuem a limitação da ausência de de quantidade de select e timestamp final.
