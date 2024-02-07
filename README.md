@@ -7,10 +7,10 @@ Por meio da auditoria temos uma fonte que permite gerar relatórios/rastrear aç
 
 De que forma podemos armazenar as principais informações referentes a manipulação e consulta de dados de um usuário durante uma sessão mysql? 
 
-## Autores
+## Autoras
 
-Fernanda Ribeiro Martins
-Monique Ellen dos Santos
+- Fernanda Ribeiro Martins
+- Monique Ellen dos Santos
 
 
 ## Estratégias
