@@ -53,6 +53,7 @@ ORDER BY count DESC;
 
 ## </Resultados> Programa Python
 
+~~~
 ID_CONEXAO: 68 , USER: fernanda@localhost , LOGIN_TS: 2023-12-04 12:47:52 , 
 LOGOUT_TS: 2023-12-04 12:47:54 , 
 QTD_SELECT: 1 , QTD_INSERT: 0 , QTD_DELETE: 0 , QTD_UPDATE: 0
@@ -65,6 +66,9 @@ ID_CONEXAO: 43 , USER: root@localhost ,
 LOGIN_TS: 2023-12-05 10:07:45 , 
 LOGOUT_TS: None , 
 QTD_SELECT: 0 , QTD_INSERT: 1 , QTD_DELETE: 1 , QTD_UPDATE: 1
+~~~
+
+
 
 Problema: Só é possível realizar consultas genéricas usando select
 
